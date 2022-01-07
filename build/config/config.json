@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x716065F70C931183e6635e7B6EbC6C39e669187C",
+  "SCAN_LINK": "https://polygonscan.com/address/0x716065F70C931183e6635e7B6EbC6C39e669187C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bitty",
+  "SYMBOL": "BT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bitty-v3",
+  "SHOW_BACKGROUND": true
+}
